@@ -1,6 +1,6 @@
-package com.vytack.apachePOI.pages;
+package com.vytrack.apachePOI.pages;
 
-import com.vytack.apachePOI.utilities.Driver;
+import com.vytrack.apachePOI.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

@@ -1,15 +1,13 @@
-package com.vytack.apachePOI.tests;
+package com.vytrack.apachePOI.tests;
 
-import com.vytack.apachePOI.pages.VyTrackDashboardPage;
-import com.vytack.apachePOI.pages.VyTrackLoginPage;
-import com.vytack.apachePOI.utilities.ConfigurationReader;
-import com.vytack.apachePOI.utilities.Driver;
+import com.vytrack.apachePOI.pages.VyTrackDashboardPage;
+import com.vytrack.apachePOI.pages.VyTrackLoginPage;
+import com.vytrack.apachePOI.utilities.ConfigurationReader;
+import com.vytrack.apachePOI.utilities.Driver;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.apache.velocity.runtime.directive.contrib.For;
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -18,7 +16,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.time.Duration;
