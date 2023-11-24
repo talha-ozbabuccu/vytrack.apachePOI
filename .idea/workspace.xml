@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e2a4c82-bf22-4bb1-a5e1-718dff9f4165" name="Changes" comment="VyTrackLoginDDTTest.java">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/pages/VyTrackDashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/pages/VyTrackDashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/pages/VyTrackLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/pages/VyTrackLoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/tests/ExcelRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/tests/ExcelRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/tests/ExcelWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/tests/ExcelWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/tests/VyTrackLoginDDTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/tests/VyTrackLoginDDTTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/utilities/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/utilities/ConfigurationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytack/apachePOI/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/apachePOI/utilities/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +47,12 @@
       <recent name="C:\Users\Ozbabuccu\.m2\repository\io\github\bonigarcia\webdrivermanager\vytrack" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vytrack.apachePOI.step_definitions" />
       <recent name="com.vytack.apachePOI.tests" />
       <recent name="com.vytack.apachePOI.utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CukesRunner">
+  <component name="RunManager" selected="JUnit.VyTrackLoginDDTTest.loginDDTTest">
     <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vytrack" />
       <extension name="coverage">
@@ -95,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CukesRunner" />
         <item itemvalue="JUnit.VyTrackLoginDDTTest.loginDDTTest" />
+        <item itemvalue="JUnit.CukesRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +104,8 @@
       <workItem from="1700125845683" duration="1064000" />
       <workItem from="1700341451066" duration="889000" />
       <workItem from="1700406509082" duration="3038000" />
-      <workItem from="1700667832187" duration="406000" />
+      <workItem from="1700667832187" duration="1926000" />
+      <workItem from="1700826021555" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Vytrack">
       <option name="closed" value="true" />
@@ -131,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700120225561</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="VyTrackLoginDDTTest.java">
+      <option name="closed" value="true" />
+      <created>1700770752042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700770752042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
