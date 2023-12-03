@@ -50,6 +50,7 @@ public class VyTrackLoginDDTTest {
             String lastName = sheet.getRow(i).getCell(3).toString();
 
             loginPage.login(userName, password);
+
             WebDriverWait wait = new WebDriverWait(Driver.getDriver(), Duration.ofSeconds(30));
             WebElement loaderMask=Driver.getDriver().findElement(By.cssSelector("div[class='loader-mask shown']"));
             wait.until(ExpectedConditions.invisibilityOf(loaderMask));
