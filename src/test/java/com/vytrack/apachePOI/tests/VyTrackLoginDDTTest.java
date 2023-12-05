@@ -68,6 +68,7 @@ public class VyTrackLoginDDTTest {
             }
             dashboardPage.logout();
         }
+
         FileOutputStream out = new FileOutputStream(filepath);
         workbook.write(out);
 
