@@ -106,6 +106,7 @@
       <workItem from="1700826021555" duration="389000" />
       <workItem from="1701480476677" duration="599000" />
       <workItem from="1701612867098" duration="74000" />
+      <workItem from="1701815401343" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="Vytrack">
       <option name="closed" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701612923461</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="VyTrackLoginDDTTest.java">
+      <option name="closed" value="true" />
+      <created>1701815421860</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701815421860</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

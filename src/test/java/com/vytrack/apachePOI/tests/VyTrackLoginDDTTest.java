@@ -62,7 +62,8 @@ public class VyTrackLoginDDTTest {
             if (actualFullname.contains(firstName) && actualFullname.contains(lastName)) {
                 System.out.println("PASS");
                 resultCell.setCellValue("PASS");
-            } else {
+            }
+            else {
                 System.out.println("FAIL");
                 resultCell.setCellValue("FAIL");
             }
